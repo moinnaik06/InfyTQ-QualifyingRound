@@ -3,7 +3,7 @@ In MySQL, you can find all SQL standard numeric types including exact number dat
 The following table shows the summary of numeric types in MySQL:
 
 Numeric Types	Description
- TINYINT - A very small integer
+TINYINT - A very small integer
  SMALLINT	- A small integer
  MEDIUMINT - A medium-sized integer
  INT - A standard integer
