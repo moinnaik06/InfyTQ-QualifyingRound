@@ -10,3 +10,5 @@ DBMS
 6) Group By concept
 7) Normalization concept
 8) Mongo DB
+
+https://codeofgeeks.com/infytq-screening-test-last-year-questions-dbms/
