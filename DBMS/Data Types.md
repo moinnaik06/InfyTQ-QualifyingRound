@@ -1,6 +1,7 @@
 In MySQL, you can find all SQL standard numeric types including exact number data type and approximate numeric data types including integer, fixed-point and floating-point. In addition, MySQL also has BIT data type for storing bit values. Numeric types can be signed or unsigned except for the BIT type.
 
 The following table shows the summary of numeric types in MySQL:
+![Screenshot (527)](https://user-images.githubusercontent.com/52530558/112036109-45dd7b00-8b66-11eb-9912-a5a6ee9973d5.png)
 
 Numeric Types	Description
 1) TINYINT - A very small integer
